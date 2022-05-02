@@ -1,3 +1,4 @@
+![](https://github.com/cuteopamp/anime-recommender/blob/main/imgs/tantan.jpg?raw=true)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project

@@ -14,6 +14,6 @@ The main goal is to recommend animes to users. Therefore, currently two approach
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@cuteopamp](https://twitter.com/cuteopamp) - edayilmxz@outlook.com
+R.E.Y. - [@cuteopamp](https://twitter.com/cuteopamp) - edayilmxz@outlook.com
 
 Project Link: [https://github.com/cuteopamp/anime-recommender](https://github.com/cuteopamp/anime-recommender)

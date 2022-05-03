@@ -9,10 +9,10 @@ The main goal is to recommend animes to users. Therefore, currently three approa
     * then it recommends animes by common tags 
 * [recommendation by clustering using KMeans and PCA](https://github.com/cuteopamp/anime-recommender/blob/main/recommender/pca_anime_clustering.ipynb)
     * there are clusters formed by user data
-    * user can select which cluster is relevant her/his taste
+    * cluster is recommended which is relevant her/his taste
 * [recommendation by clustering using KMeans and t-SNE](https://github.com/cuteopamp/anime-recommender/blob/main/recommender/tsne_anime_recommender.ipynb)
     * there are clusters formed by user data
-    * user can select which cluster is relevant her/his taste 
+    * cluster is recommended which is relevant her/his taste
 
 <!-- CONTACT -->
 ## Contact

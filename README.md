@@ -24,6 +24,7 @@
 ## About The Project
 
 The main goal of this app is to recommend animes to users.
+
 ![Anime Recommender on Action](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/AnimeRecommenderLive.gif?raw=true)
 
 ![Menu Screen](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/menu_ss.png?raw=true)
@@ -39,11 +40,11 @@ List of some packages that are necessary: pygame for game app, numpy and pandas 
 
 ### Prerequisites
 
-* pygame
+ * pygame
   ```
   pip install pygame
   ```
-* numpy
+ * numpy
   ```
   pip install numpy
   ```
@@ -97,5 +98,6 @@ For any further ideas, suggestion, critics or just comments, please reach me out
 R.E.Y. - [@cuteopamp](https://twitter.com/cuteopamp) - edayilmxz@outlook.com
 
 Project Link: [https://github.com/cuteopamp/anime-recommender](https://github.com/cuteopamp/anime-recommender)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 P.S. to me, next time ask yourself whether you are on nuts or not, if you want to process anime data. There are so many hearts, stars and notes etc. in the name of animes. If there are multiple heart, it is probably hentai btw. Using movies dataset might be enjoyable. And check the date of dataset next time. 

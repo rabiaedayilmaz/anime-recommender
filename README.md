@@ -91,7 +91,7 @@ Therefore, currently three approaches are followed:
     * there are clusters formed by user data
     * cluster is recommended which is relevant her/his taste
 
-** I chose the result of t-SNE dimensionality reduction and K-Means techniques for my app data. **
+**I chose the result of t-SNE dimensionality reduction and K-Means techniques for my app data.**
 
 * Then, a game is created by using pygame to interact with user easily and aesthetically.
 

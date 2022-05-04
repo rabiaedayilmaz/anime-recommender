@@ -26,13 +26,20 @@
 The main goal of this app is to recommend animes to users.
 
 ![Anime Recommender on Action](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/AnimeRecommenderLive.gif?raw=true)
+|:--:|
 | *Anime Recommender on Action* |
 
 ![Menu Screen](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/menu_ss.png?raw=true)
+|:--:|
+| *Menu Screen* |
 
 ![Option Screen](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/option_ss.png?raw=true)
+|:--:|
+| *Option Screen* |
 
 ![Result Screen](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/resuls_ss.png?raw=true)
+|:--:|
+| *Result Screen* |
 
 
 ## Getting Started

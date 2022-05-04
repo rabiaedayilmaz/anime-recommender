@@ -26,6 +26,7 @@
 The main goal of this app is to recommend animes to users.
 
 ![Anime Recommender on Action](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/AnimeRecommenderLive.gif?raw=true)
+| *Anime Recommender on Action* |
 
 ![Menu Screen](https://github.com/cuteopamp/anime-recommender/blob/main/readme_files/menu_ss.png?raw=true)
 

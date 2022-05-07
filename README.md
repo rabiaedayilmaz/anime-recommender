@@ -46,32 +46,6 @@ The main goal of this app is to recommend animes to users.
 
 List of some packages that are necessary: pygame for game app, numpy and pandas for data processing, sklearn for machine learning techniques and random, itertools as auxiliary.
 
-### Prerequisites
-
- * pygame
-  ```
-  pip install pygame
-  ```
- * numpy
-  ```
-  pip install numpy
-  ```
- * pandas
-  ```
-  pip install pandas
-  ```
- * sklearn
-  ```
-  pip install sklearn
-  ```
- * random
-  ```
-  pip install random
-  ```
- * itertools
-  ```
-  pip install itertools
-  ```
 ### Usage
 * You can download/fork directly [anime_recommender_app folder](https://github.com/cuteopamp/anime-recommender/tree/main/anime_recommender_app) and run main.py file. Even edit it. Maybe, like me, you can get your next anime to watch :)
 * Or you can just [download the game](https://cuteopamp.itch.io/anime-recommender) and run main.exe without any setup.
